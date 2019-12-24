@@ -1,0 +1,195 @@
+body
+{
+	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+}
+.none
+{
+	display: none;
+}
+.hand
+{
+	cursor: pointer !important;
+}
+.display-none
+{
+	display: none;
+}
+.nl2br
+{
+	white-space: pre-wrap;
+}
+.cursor-pointer
+{
+	cursor: pointer;
+}
+/*##################################################### Logo Menu superior */
+/*@media screen and (max-width: 768px)*/
+@media screen and (max-width: 768px)
+{
+	.logo_menu
+	{
+		content: url('../img/logoufesmini.png');
+	}
+}
+/*@media (max-width: 992px)
+{
+	.logo_menu
+	{
+		content: url('../img/logoufesminicompleta.png');
+	}
+}
+@media (max-width: 1200px)
+{
+	.logo_menu
+	{
+		content: url('../img/logoufesminicompleta.png');
+	}
+}*/
+/*##################################################### Estilo para botão Pesquisar */
+.stylish-input-group .input-group-addon
+{
+	border-bottom-right-radius: 6px;
+	border-top-right-radius: 6px;
+	background: white !important;
+}
+.stylish-input-group .form-control
+{
+	border-bottom-left-radius: 6px;
+	border-top-left-radius: 6px;
+	border-right:0;
+	box-shadow:0 0 0;
+	border-color:#ccc;
+}
+.stylish-input-group button
+{
+	border:0;
+	background:transparent;
+	text-align: right;
+}
+/*############################################################################*/
+.font-white
+{
+	color: #fff;
+}
+.font-red
+{
+	color: #CC0000;
+}
+.font-green
+{
+	color: #006600;
+}
+.font-blue
+{
+	color: #0066FF;
+}
+.font-9
+{
+	font-size: 9px;
+}
+.font-10
+{
+	font-size: 10px;
+}
+.font-11
+{
+	font-size: 11px;
+}
+.font-12
+{
+	font-size: 12px;
+}
+.font-13
+{
+	font-size: 13px;
+}
+.font-14
+{
+	font-size: 14px;
+}
+.font-16
+{
+	font-size: 16px;
+}
+.font-18
+{
+	font-size: 18px;
+}
+.font-22
+{
+	font-size: 22px;
+}
+.font-26
+{
+	font-size: 26px;
+}
+.font-30
+{
+	font-size: 30px;
+}
+.font-bold
+{
+	font-weight: bold;
+}
+.font-normal
+{
+	font-style: normal;
+}
+.font-italic
+{
+	font-style: italic;
+}
+.font-oblique
+{
+	font-style: oblique;
+}
+.font-center
+{
+	text-align: center;
+}
+.font-left
+{
+	text-align: left;
+}
+.font-right
+{
+	text-align: right;
+}
+/*################################################################*/
+.tahoma
+{
+	font-family: Tahoma;
+}
+.text-indent-10
+{
+	text-indent: 10px;
+}
+.text-center
+{
+	text-align: center;
+}
+.padding-top-20
+{
+	padding-top: 20px;
+}
+.padding-10
+{
+	padding: 10px;
+}
+.margin-bottom-20
+{
+	margin-bottom: 20px !important;
+}
+
+.margin-top-5
+{
+	margin-top: 5px !important;
+}
+.margin-top-10
+{
+	margin-top: 10px !important;
+}
+.margin-top-20
+{
+	margin-top: 20px !important;
+}

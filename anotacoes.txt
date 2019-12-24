@@ -1,0 +1,3 @@
+ - Nas (Rotinas administrativas), páginas iniciais, mostrar campo ESPAÇO
+ - Quando mandar EXCLUIR, mudar somente o STATUS do registro.
+ - Opção de anexo nas rotinas (DOC - PDF).
